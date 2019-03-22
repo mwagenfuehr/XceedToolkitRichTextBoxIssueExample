@@ -2,7 +2,7 @@
 using System.Windows;
 using System.Windows.Documents;
 
-namespace Example01.UsingXceedRtbWithoutFormatter
+namespace Example02.UsingXceedRtbWithRtfFormatter
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml
