@@ -8,8 +8,8 @@ The problem is, that with the `RtfFormatter` (the default Formatter used for `Ri
 Just think of writing a text of 200 words and with every keystroke an Exception will be thrown in the backend (... fetching the Stacktrace and whatnot). Even with the Diagnostic Tools inside of Visual Studio you're able to see, how many resources a simple program will need.  
 
 ... and this:
-[!alt text](https://github.com/mwagenfuehr/XceedToolkitRichTextBoxIssueExample/blob/master/OutputChaos.PNG "Output of a simple "Hello my name is"")  
+![alt text](https://github.com/mwagenfuehr/XceedToolkitRichTextBoxIssueExample/blob/master/OutputChaos.PNG "Output of a simple "Hello my name is"")  
   
   
 To further analyze the Exception, be sure to enable the needed Exception inside the `Exception Settings`:
-[!alt text](https://github.com/mwagenfuehr/XceedToolkitRichTextBoxIssueExample/blob/master/ExceptionSettings.PNG "The needed Exception Settings to analyze this problem")
+![alt text](https://github.com/mwagenfuehr/XceedToolkitRichTextBoxIssueExample/blob/master/ExceptionSettings.PNG "The needed Exception Settings to analyze this problem")
