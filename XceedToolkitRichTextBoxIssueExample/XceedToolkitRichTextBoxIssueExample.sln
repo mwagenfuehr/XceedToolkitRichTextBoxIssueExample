@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example01.UsingXceedRtbWith
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example02.UsingXceedRtbWithRtfFormatter", "Example02.UsingXceedRtbWithRtfFormatter\Example02.UsingXceedRtbWithRtfFormatter.csproj", "{2B2BF7A9-AF6B-4139-B9B6-60919D5E63F2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example03.UsingXceedRtbWithPlaintextFormatter", "Example03.UsingXceedRtbWithPlaintextFormatter\Example03.UsingXceedRtbWithPlaintextFormatter.csproj", "{23D062DF-844E-4CD2-8315-729CF045DA8D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{2B2BF7A9-AF6B-4139-B9B6-60919D5E63F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2B2BF7A9-AF6B-4139-B9B6-60919D5E63F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2B2BF7A9-AF6B-4139-B9B6-60919D5E63F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23D062DF-844E-4CD2-8315-729CF045DA8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23D062DF-844E-4CD2-8315-729CF045DA8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23D062DF-844E-4CD2-8315-729CF045DA8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23D062DF-844E-4CD2-8315-729CF045DA8D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
