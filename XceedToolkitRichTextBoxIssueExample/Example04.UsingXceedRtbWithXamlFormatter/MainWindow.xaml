@@ -1,0 +1,30 @@
+﻿<Window
+    x:Class="Example04.UsingXceedRtbWithXamlFormatter.MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:local="clr-namespace:Example04.UsingXceedRtbWithXamlFormatter"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:xctk="http://schemas.xceed.com/wpf/xaml/toolkit"
+    Title="MainWindow"
+    Width="302.897"
+    Height="166.284"
+    mc:Ignorable="d">
+    <Grid>
+        <Button
+            x:Name="ButtonGetRtf"
+            Width="75"
+            Margin="10,10,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Click="ButtonGetRtf_Click"
+            Content="Get RTF" />
+        <xctk:RichTextBox
+            Name="RichTextBox"
+            Width="268"
+            Height="83"
+            Margin="10,35,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top" />
+    </Grid>
+</Window>
