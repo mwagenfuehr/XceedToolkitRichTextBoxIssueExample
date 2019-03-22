@@ -11,14 +11,6 @@
     Height="179.071"
     mc:Ignorable="d">
     <Grid>
-        <Button
-            x:Name="ButtonGetRtf"
-            Width="75"
-            Margin="10,10,0,0"
-            HorizontalAlignment="Left"
-            VerticalAlignment="Top"
-            Click="ButtonGetRtf_Click"
-            Content="Get RTF" />
         <xctk:RichTextBox
             Name="RichTextBox"
             Width="268"
