@@ -21,7 +21,7 @@ Here are simple explanations to the given Examples of the Project:
 
 ### Example 01
 
-This is a simple program that uses the `RichTextBox` as is. So no modifications or anything are made to any of the Properties.  
+This is a simple program that uses the `RichTextBox` from the WpfToolkit as is. So no modifications or anything are made to any of the Properties.  
   
 But you'll notice two things:
 1. An exception will be thrown right when the program starts (The Property `RichTextBox.TextFormatter` will be initilized with the default `RtfFormatter`)
@@ -44,7 +44,7 @@ This will raise an exception right when the Program starts (because the `TextFor
 ### Example 05
 
 This is just an example using the default `RichTextBox` that is implemented within WPF. Here you don't have any way to change a `TextFormatter` so I didn't change any property.  
-Here you won't get any errors aswell. Initializing and typing are free from Exception.
+Here you won't get any errors aswell. Initializing and typing are free from Exceptions.
 
 ## Conclusion
 
